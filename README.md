@@ -1,6 +1,6 @@
-[![Repos Badge](https://badges.pufler.dev/repos/msnawazbd)](https://github.com/msnawazbd)
-[![Gists Badge](https://badges.pufler.dev/gists/msnawazbd)](https://gist.github.com/msnawazbd)
-[![Gists Badge](https://pageview.vercel.app/?github_user=msnawazbd)](https://github.com/msnawazbd)
+[![Repos Badge](https://badges.pufler.dev/repos/ATIK-FAYSAL)](https://github.com/ATIK-FAYSAL)
+[![Gists Badge](https://badges.pufler.dev/gists/ATIK-FAYSAL)](https://gist.github.com/ATIK-FAYSAL)
+[![Gists Badge](https://pageview.vercel.app/?github_user=ATIK-FAYSAL)](https://github.com/ATIK-FAYSAL)
 
 
 ### Download Resume:
@@ -10,8 +10,8 @@
 
 <h2>MY GITHUB STATS</h2>
 <p>
-  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=msnawazbd&show_icons=true&line_height=27">
-  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msnawazbd">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=ATIK-FAYSAL&show_icons=true&line_height=27">
+  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATIK-FAYSAL">
 </p>
 
 <h2>MY TECH STACK </h2>
@@ -86,16 +86,16 @@
 
 <h2>WHERE TO FIND ME</h2>
 <p>
-    <a title="Facebook" href="https://facebook.com/msnawazbd">
+    <a title="Facebook" href="https://facebook.com/ATIK-FAYSAL">
         <img src="https://img.shields.io/badge/-Nawaz-%233b5998?style=flat-square&logo=Facebook&logoColor=ffffff" />
     </a>
-    <a title="LinkedIn" href="https://www.linkedin.com/in/msnawazbd/">
+    <a title="LinkedIn" href="https://www.linkedin.com/in/ATIK-FAYSAL/">
         <img src="https://img.shields.io/badge/-Nawaz-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
     </a>
     <a title="Instagram" href="https://instagram.com/mr.ms.nawaz">
         <img src="https://img.shields.io/badge/-Nawaz-%233f729b?style=flat-square&logo=instagram&logoColor=ffffff" />
     </a>
-    <a title="Twitter" href="https://twitter.com/msnawazbd">
+    <a title="Twitter" href="https://twitter.com/ATIK-FAYSAL">
         <img src="https://img.shields.io/badge/-Nawaz-%2300acee?style=flat-square&logo=twitter&logoColor=ffffff" />
     </a>
     <a title="Youtube" href="https://www.youtube.com/channel/UCIj_o-fxwSZwYMwEKy8AuVg">
@@ -111,13 +111,13 @@
 <a title="Git" href="https://git-scm.com/">
    <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
 </a>
-<a title="Github" href="https://github.com/msnawazbd">
+<a title="Github" href="https://github.com/ATIK-FAYSAL">
    <img src="https://img.shields.io/badge/Github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a title="BitBucket" href="https://bitbucket.org/msnawazbd/">
+<a title="BitBucket" href="https://bitbucket.org/ATIK-FAYSAL/">
    <img src="https://img.shields.io/badge/Bitbucket%20-%230047B3.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
 </a>
-<a title="GitLab" href="https://gitlab.com/msnawazbd">
+<a title="GitLab" href="https://gitlab.com/ATIK-FAYSAL">
    <img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=flat-square&logo=gitlab&logoColor=white"/>
 </a>  
 
@@ -182,7 +182,7 @@
 </a>
 
 [website]: https://clustercoding.com/
-[twitter]: https://twitter.com/msnawazbd
+[twitter]: https://twitter.com/ATIK-FAYSAL
 [youtube]:  https://www.youtube.com/
-[linkedin]: https://www.linkedin.com/in/msnawazbd/
-[facebook]: https://www.facebook.com/msnawazbd/
+[linkedin]: https://bd.linkedin.com/in/atik-faysal-368a6412b
+[facebook]: https://www.facebook.com/ATIK-FAYSAL/
